@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib
+    (name "SW-Eswitch")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/footprints/SW-Eswitch.pretty")
+    (options "")
+    (descr "Local ModMIDI switch footprints")
+  )
+)

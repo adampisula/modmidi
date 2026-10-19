@@ -1,0 +1,17 @@
+# KiCad-generated state and local manufacturing folders
+**/*_missing3Dmodels.txt
+**/fp-info-cache
+**/*-backups/
+**/jlcpcb/
+**/bom/
+**/*.lck
+
+# PlatformIO build output
+.pio/
+**/.pio/
+
+# Local editor settings
+.vscode/
+**/.vscode/
+
+# Hardware PDFs and other intended distribution outputs under hardware/output/ remain trackable.

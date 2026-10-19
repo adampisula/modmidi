@@ -1,0 +1,28 @@
+{
+  "name": "modmidi",
+  "version": "0.0.1",
+  "description": "Modular MIDI",
+  "keywords": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adampisula/modmidi.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Adam Pisula",
+      "email": "adam.pisula@outlook.com",
+      "url": "https://biganimetitti.es",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://modmidi.biganimetitti.es/",
+  "dependencies": {
+    "levi--g/USBLibrarySTM32": "~1.0.1",
+    "adampisula/MIDIUSB": "https://github.com/adampisula/MIDIUSB.git#1.0.5"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
